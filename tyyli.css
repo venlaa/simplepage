@@ -1,0 +1,46 @@
+html {
+    background-color: rgb(245, 214, 214);
+    font-style: oblique;
+    color:palevioletred;
+}
+
+button {
+    background-color: palevioletred;
+    font-style: oblique;
+    width: 50px;
+    height: 90px;
+    text-align:justify;
+    font-size: large;
+    color:rgb(0, 0, 0);
+    margin-left: 295px;
+}
+
+input[id="number"] {
+  width: 130px;
+  margin-left: 250px;
+}
+
+.result {
+  color: rgb(255, 251, 251);
+  text-align:center;
+}
+
+h1 {
+  text-align: center;
+}
+
+.container {
+    border-style: solid;
+    border-radius: 2px;
+    padding-left: 755px;
+    margin: auto;
+    width: 640px; 
+    padding: 50px;
+    align-items:baseline;
+    align-content:baseline
+}
+
+
+    
+  
+ 
